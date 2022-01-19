@@ -44,7 +44,7 @@ const Exercise = (props) => {
                 cover={
                   <img
                     alt="example"
-                    src="https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/243801023_581083329607099_8089910565490544518_n.png?_nc_cat=103&ccb=1-5&_nc_sid=ae9488&_nc_ohc=IUjgeDofu8MAX-BvUn1&tn=25Hpisx_lsj3NqCj&_nc_ht=scontent.fhan14-2.fna&oh=38a94703973cbd685d0c33cf46dd93bc&oe=6179BED2"
+                    src="/assets/img/logooo.PNG"
                   />
                 }
               >

@@ -226,7 +226,7 @@ const CounDownCpn = React.memo(({totalPoint}) => {
     });
   }
   return (
-<Countdown date={Date.now() +  10*1000 } renderer={render} onComplete={onComplete}/>
+<Countdown date={Date.now() +  60*60*1000 } renderer={render} onComplete={onComplete}/>
   )
 })
 
